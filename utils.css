@@ -1,0 +1,47 @@
+.min-h-screen{
+min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+        align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.my1{
+    
+margin-top: 1px;
+margin-bottom: 13px;
+text-align: center;
+}
+.px2{
+    width: 70%;
+    padding-left: 15vw;
+    padding-right: 5px;
+    }
+.text-blue{
+    color: rgb(255, 255, 255);
+}
+.text-blue-1{
+    color: rgb(255, 255, 255);
+}
+.align-center{
+    align-items: center;
+}
